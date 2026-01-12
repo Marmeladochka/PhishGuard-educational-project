@@ -1,3 +1,6 @@
+![PhishGuard Logo](assets/logo.png)
+
+
 # PhishGuard
 
 PhishGuard -- это образовательный прототип для обнаружения фишинговых сообщений с использованием
@@ -21,3 +24,4 @@ PhishGuard -- это образовательный прототип для об
 ```bash
 pip install -r requirements.txt
 python src/main.py
+
