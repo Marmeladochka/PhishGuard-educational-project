@@ -23,6 +23,7 @@ PhishGuard -- это образовательный прототип для об
 ### Запуск
 ```bash
 pip install -r requirements.txt
-python src/main.py
+python script.py
+
 
 
